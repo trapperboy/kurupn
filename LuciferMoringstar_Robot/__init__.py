@@ -30,7 +30,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name : kurup Auto Filter V3
     
-➥ Creator : [@trapper_boy ](https://t.me/keralamoviesn
+➥ Creator : [@trapper_boy](https://t.me/keralamoviesn
 )
 
 ➥ Language : Python3
