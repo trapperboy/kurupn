@@ -35,7 +35,19 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 default_start_msg = """
-**Hi, I'm kurup Auto Filter V3**
+**Hi, I'm mia Auto Filter V3
+🔊 𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗰𝗵𝗮𝗻𝗻𝗲𝗹 🤭.
+
+Do You Need movie ❓😌
+
+For That Join Our Channel first And Try Again 🙂
+
+നിങ്ങൾക്ക് മൂവീസ് വേണോ❓ 
+
+എങ്കിൽ തായെ കാണുന്ന ഞങ്ങളുടെ  ചാനലിൽ ജോയിൻ ചെയ്യുക💥.
+
+എന്നിട്ട് try again 😌
+**
 
 Here you can search files in Inline mode as well as PM, Use the below buttons to search files or send me the name of file to search.
 """
