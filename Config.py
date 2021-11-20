@@ -35,7 +35,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 default_start_msg = """
-**Hi, I'm mia Auto Filter V3
+**Hi, Millie
 🔊 𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗰𝗵𝗮𝗻𝗻𝗲𝗹 🤭.
 
 Do You Need movie ❓😌
