@@ -30,7 +30,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name : Millie
     
-➥ Creator : [@trapper_boy](https://t.me/bettermalayalam
+➥ Creator : [trapper_boy](https://t.me/bettermalayalam
 )
 
 ➥ Language : Python3
