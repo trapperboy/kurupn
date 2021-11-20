@@ -28,14 +28,14 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name : kurup Auto Filter V3
+➥ Name : Millie
     
-➥ Creator : [@trapper_boy](https://t.me/keralamoviesn
+➥ Creator : [@trapper_boy](https://t.me/bettermalayalam
 )
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://t.me/keralamoviesn)
+➥ Tutorial : [Click Me](https://t.me/bettermalayalam)
 """
